@@ -1,0 +1,76 @@
+/* Navbar */
+
+#navbar h1 {
+  float: none;
+  text-align: center;
+}
+
+#navbar li {
+  float: none;
+}
+
+#navbar ul {
+  float: none;
+}
+
+#navbar ul li a {
+  padding: 5px;
+  border-bottom: 1px dotted #444;
+}
+
+/* Showcase */
+
+.showcase {
+  padding-top: 70px;
+}
+
+/* Home-info section */
+
+#home-info #hotel-pic {
+  display: none;
+}
+
+#home-info #hotel-content {
+  float: none;
+  width: 100%;
+  height: auto;
+}
+
+/* Features Section */
+
+#features div {
+  float: none;
+  width: 100%;
+}
+
+/* About-info section */
+
+#about-info #content h1 {
+  line-height: 1em;
+  text-align: center;
+}
+
+#about-info #content,
+#about-info #image {
+  float: none;
+  width: 100%;
+}
+
+/* Testimonials */
+
+#testimonials h1 {
+  line-height: 1em;
+}
+
+#testimonials {
+  height: auto;
+  padding-bottom: 2em;
+}
+
+/* Contact Info Section */
+
+#contact-info .box {
+  float: none;
+  width: 100%;
+  border-bottom: 1px dotted #444;
+}
